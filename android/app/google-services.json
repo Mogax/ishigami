@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136624564400",
+    "project_id": "ishigami-22383",
+    "storage_bucket": "ishigami-22383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136624564400:android:a9952b94334d9fe9903375",
+        "android_client_info": {
+          "package_name": "fr.mogax.ishigami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136624564400-4johobr3imv1u80hla4c338hduidis43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ILojX-sKCGxi4Mgaw3136_2DJGBwK9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136624564400-4johobr3imv1u80hla4c338hduidis43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
